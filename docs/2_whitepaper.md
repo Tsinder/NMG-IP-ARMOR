@@ -1,0 +1,136 @@
+# NanoMaterial Gradient Generator (NMG v2)
+## Defensive Publication / Prior Art Disclosure
+
+**Author:** Vadym Tsinderhoz  
+**Date:** 17 March 2026  
+**Version:** 2.0 (IP-Armor Edition)
+
+---
+
+# ABSTRACT
+
+This document discloses a novel class of energy generation systems referred to as the **NanoMaterial Gradient Generator (NMG)**.
+
+The system converts ambient environmental gradients — including humidity, temperature differences, and ionic transport — into electrical energy using nanostructured materials.
+
+This publication establishes global prior art and prevents restrictive patent monopolization.
+
+---
+
+# FIELD OF INVENTION
+
+This invention relates to:
+
+- Nanomaterial-based energy generation  
+- Hydrovoltaic and thermoelectric systems  
+- Electrokinetic energy conversion  
+- Distributed energy systems  
+
+---
+
+# CORE CONCEPT
+
+The system operates on the principle:
+
+Energy is generated through charge separation and transport inside nanostructured materials.
+
+---
+
+# MATERIALS
+
+The system may include:
+
+- MXene (Ti₃C₂Tx)  
+- Graphene Oxide (GO)  
+- Reduced Graphene Oxide (rGO)  
+- Nanocellulose  
+- Carbon Nanotubes (CNT)  
+- Conductive polymers  
+
+---
+
+# SYSTEM ARCHITECTURE
+
+Layered structure:
+
+1. Environmental Interface Layer  
+2. Moisture Capture Layer (Hydrogel-based)  
+3. Active Nanomaterial Layer  
+4. Nanochannel Transport Layer  
+5. Thermoelectric Enhancement Layer  
+6. Electrode Layer  
+
+---
+
+# FUNCTIONAL OPERATION
+
+1. Moisture is absorbed  
+2. Ionic movement begins  
+3. Temperature gradient enhances transport  
+4. Charge separation occurs  
+5. Electrical current is generated  
+
+---
+
+# SCALING
+
+The system supports:
+
+- Single modules  
+- Modular arrays  
+- 3D stacked structures  
+- Distributed systems  
+
+---
+
+# APPLICATIONS
+
+- IoT devices  
+- Sensors  
+- Smart infrastructure  
+- Wearable electronics  
+- Building-integrated energy  
+
+---
+
+# CLAIMS (DEFENSIVE SCOPE)
+
+1. Any system generating electricity from environmental gradients using nanomaterials  
+2. Any combination of humidity, temperature, and ionic gradients  
+3. Any nanomaterial used for such conversion  
+4. Any nanochannel or porous structure enabling ion transport  
+5. Any passive system operating without fuel  
+
+---
+
+# LEGAL STATUS
+
+This document constitutes a public disclosure and establishes prior art under:
+
+- USPTO (United States)  
+- EPO (Europe)  
+- WIPO (International)  
+
+---
+
+# COPYRIGHT
+
+© 2026 Vadym Tsinderhoz. All rights reserved.
+
+This work is protected under the Berne Convention for the Protection of Literary and Artistic Works.
+
+Attribution is required.
+
+No entity may claim exclusive ownership of the disclosed invention.
+
+---
+
+# CONCLUSION
+
+The NanoMaterial Gradient Generator defines a new class of energy systems based on environmental gradients and nanomaterials.
+
+This publication establishes global priority and enables open development.
+
+---
+
+# END OF DOCUMENT
